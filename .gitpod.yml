@@ -1,6 +1,4 @@
 # Learn more about this file at https://www.gitpod.io/docs/references/gitpod-yml
-image:
-  file: .gitpod.Dockerfile
 tasks:
   - init: yarn
     command: yarn start
